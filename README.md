@@ -3,7 +3,7 @@
 Get Google Maps coordinates by many address from input file and write latitude and longitude of them in output files
 
 ### Purpose 
-* I was faced with lots of addresses and I challenged myself to get a quick resolution to get latitude and longitude coordinates of them. This is a simple solution to get this result and work with it as well as you like. In my case I copy the columns of output files in a spreadsheet to get my job done.
+* I was faced with lots of addresses and I challenged myself to get a quick resolution to get latitude and longitude coordinates of them. This is a simple solution to get this results. In my case, I copy the columns of output files in a spreadsheet to get my job done.
 
 
 ### Pre requisites
